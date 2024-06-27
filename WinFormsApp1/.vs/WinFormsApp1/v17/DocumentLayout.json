@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\afadi\\source\\repos\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23289A0F-13F4-4CF9-805E-817217C66201}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\afadi\\source\\repos\\winformsapp1\\winformsapp1\\formmenuutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{23289A0F-13F4-4CF9-805E-817217C66201}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\formmenuutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23289A0F-13F4-4CF9-805E-817217C66201}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\afadi\\source\\repos\\winformsapp1\\winformsapp1\\formmenuutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{23289A0F-13F4-4CF9-805E-817217C66201}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\formmenuutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMenuUtama.vb",
+              "DocumentMoniker": "C:\\Users\\afadi\\source\\repos\\WinFormsApp1\\WinFormsApp1\\FormMenuUtama.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FormMenuUtama.vb",
+              "ToolTip": "C:\\Users\\afadi\\source\\repos\\WinFormsApp1\\WinFormsApp1\\FormMenuUtama.vb",
+              "RelativeToolTip": "WinFormsApp1\\FormMenuUtama.vb",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAAAHkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T11:08:37.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMenuUtama.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\afadi\\source\\repos\\WinFormsApp1\\WinFormsApp1\\FormMenuUtama.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FormMenuUtama.vb",
+              "ToolTip": "C:\\Users\\afadi\\source\\repos\\WinFormsApp1\\WinFormsApp1\\FormMenuUtama.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\FormMenuUtama.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-25T10:54:40.282Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
